@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/galan-ramadan-harya-galib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galan-ramadan-harya-galib" height="30" width="40" /></a>
 <a href="https://instagram.com/glnrmdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="glnrmdan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/galan ramadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="galan ramadan" height="30" width="40" /></a>
-<a href="https://discord.gg/harya1567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="harya1567" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/565072718400192513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="harya1567" height="30" width="40" /></a>
 </p>
 
 <p></p>
