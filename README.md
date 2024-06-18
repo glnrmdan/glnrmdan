@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glnrmdan&show_icons=true&theme=dracula&locale=en&layout=compact" alt="glnrmdan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glnrmdan&show_icons=true&theme=tokyonight&locale=en" alt="glnrmdan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glnrmdan&theme=highcontrast" alt="glnrmdan" /></p>
