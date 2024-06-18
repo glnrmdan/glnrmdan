@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Galan Ramadan Harya Galib</h1>
-<h3 align="center">I am currently a student at Universitas Islam Negeri Maulana Malik Ibrahim Malang, pursuing a Bachelor's degree in Computer Science and a Master's degree in Informatics (Fast Track). My primary focus is on Machine Learning, especially in Neural Networks, Deep Learning, and Computer Vision.</h3>
+<h3 align="center">I am currently studying at Universitas Islam Negeri Maulana Malik Ibrahim Malang, pursuing a Bachelor's degree in Computer Science and a Master's degree in Informatics (Fast Track). My primary focus is on Machine Learning, especially in Neural Networks, Deep Learning, and Computer Vision.</h3>
 
 - 🌱 I’m currently learning **Computer Vision and Deep Learning**
 
