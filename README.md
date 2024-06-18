@@ -21,7 +21,6 @@
 <a href="https://discord.gg/harya1567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="harya1567" height="30" width="40" /></a>
 </p>
 
-<br><br><br><br><br><br><br><br>
 <p></p>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=glnrmdan&label=Profile%20Views&color=9&icon=0&pretty=false" />
