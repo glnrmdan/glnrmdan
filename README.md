@@ -22,6 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glnrmdan&show_icons=true&theme=dracula&locale=en&layout=compact" alt="glnrmdan" /></p>
 
 <br><br><br><br><br><br><br><br>
+<p></p>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=glnrmdan&label=Profile%20Views&color=9&icon=0&pretty=false" />
 </a>
