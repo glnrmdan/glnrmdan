@@ -1,34 +1,15 @@
-# Hi there, I'm Galan Ramadan Harya Galib 👋
+<h1 align="center">Hi 👋, I'm Galan Ramadan Harya Galib</h1>
+<h3 align="center">I am currently a student at Universitas Islam Negeri Maulana Malik Ibrahim Malang, pursuing a Bachelor's degree in Computer Science and a Master's degree in Informatics (Fast Track). My primary focus is on Machine Learning, especially in Neural Networks, Deep Learning, and Computer Vision.</h3>
 
-I am currently a student at Universitas Islam Negeri Maulana Malik Ibrahim Malang, pursuing a Bachelor's degree in Computer Science and a Master's degree in Informatics (Fast Track). My primary focus is on Machine Learning, especially in Neural Networks, Deep Learning, and Computer Vision.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🔭 Focus Areas
-- **Machine Learning**
-- **Neural Networks**
-- **Deep Learning**
-- **Computer Vision**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 🛠️ Languages & Tools
-- **Languages**: Python
-- **Tools & Libraries**: TensorFlow, Pandas, NumPy, Scikit-learn, PyTorch, Seaborn, Matplotlib
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glnrmdan&show_icons=true&theme=dracula&locale=en&layout=compact" alt="glnrmdan" /></p>
 
-## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- [Email](mailto:your.email@example.com)
-- [Twitter](https://twitter.com/yourtwitter)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glnrmdan&show_icons=true&theme=tokyonight&locale=en" alt="glnrmdan" /></p>
 
-## 🚀 Projects
-Here are some of my projects:
-- [Project 1](https://github.com/yourusername/project1): Description of project 1.
-- [Project 2](https://github.com/yourusername/project2): Description of project 2.
-- [Project 3](https://github.com/yourusername/project3): Description of project 3.
-
-## 📈 GitHub Stats
-![Galan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🤝 Let's Connect
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedin/) or [Twitter](https://twitter.com/yourtwitter). Let's collaborate and innovate together!
-
-<!-- Add any other sections or topics you want here -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glnrmdan&theme=highcontrast" alt="glnrmdan" /></p>
