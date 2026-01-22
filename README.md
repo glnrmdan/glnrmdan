@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Galan Ramadan Harya Galib</h3>
-<h4 align="center">I am currently studying at Universitas Islam Negeri Maulana Malik Ibrahim Malang, pursuing a Master's degree in Informatics (Fast Track). My primary focus is on Machine Learning, especially in Neural Networks, Deep Learning, and Computer Vision.</h4>
+<h4 align="center">A recent Master of Computer Science graduate (GPA: 3.80/4.00) from UIN Maulana Malik Ibrahim Malang. My Master's thesis focused on developing a low-computation method based on GLCM (Gray Level Co-occurrence Matrix) as a feature extraction and NN (Neural Network) as the pixel-level classifier for LULC (Land Use Land Cover) semantic segmentation.</h4>
 
 - 🌱 I’m currently learning **Computer Vision and Deep Learning**
 
